@@ -21,7 +21,7 @@ import com.resources.service.CustomerService;
 @Controller
 @RequestMapping("/management")
 public class CustomerController {
-	//1st change
+	//1st change.
 	//2nd change.
 	@Autowired
 	private CustomerService customerService;
