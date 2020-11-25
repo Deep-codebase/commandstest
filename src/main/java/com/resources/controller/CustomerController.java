@@ -22,7 +22,7 @@ import com.resources.service.CustomerService;
 @RequestMapping("/management")
 public class CustomerController {
 	//1st change
-	//2nd change
+	//2nd change.
 	@Autowired
 	private CustomerService customerService;
 
